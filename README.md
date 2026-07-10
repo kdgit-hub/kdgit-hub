@@ -6,7 +6,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Linux 
 
 <p align="center">
 
-<a href="www.linkedin.com/in/kishore-dodda-13554848/">
+<a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -177,7 +177,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Linux 
 
 # 📫 Connect with Me
 
-- LinkedIn: www.linkedin.com/in/kishore-dodda-13554848
+- LinkedIn: https://www.linkedin.com/in/kishore-dodda-13554848
 - Email: kishoredv15@gmail.com
 
 ---
