@@ -6,7 +6,7 @@ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Linux 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/venkat-dodda-255a35395/">
+<a href="www.linkedin.com/in/kishore-dodda-13554848/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
