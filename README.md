@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore Dodda</h1>
 
 <h3 align="center">
-☁️ Cloud & Database Engineer | AWS | Azure | Kubernetes | Terraform | PostgreSQL | SQL Server | Oracle
+🗄️ Database & Cloud Engineer | AWS | Azure | PostgreSQL | SQL Server | Oracle | Kubernetes | Terraform
 </h3>
 
 <p align="center">
@@ -17,24 +17,15 @@
 
 ## 🚀 About Me
 
-Cloud & Database Engineer with **10+ years of experience** managing enterprise infrastructure, databases, and cloud platforms across **on-premises, AWS, and Azure environments**.
+Database & Cloud Engineer with **10+ years of IT experience** managing enterprise databases, infrastructure, and cloud platforms across **on-premises, AWS, and Azure environments**.
 
-Experienced in **cloud infrastructure, database administration, Kubernetes, Terraform, CI/CD, Linux administration, automation, monitoring, migrations, high availability, disaster recovery, and performance optimization**.
+Strong experience in **PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, database administration, performance tuning, high availability, disaster recovery, backup & recovery, replication, monitoring, migrations, and automation**.
+
+Experienced in modern database and infrastructure platforms using **AWS, Azure, Kubernetes, Terraform, CI/CD, Infrastructure as Code, Linux, and automation**.
 
 ---
 
 ## 🛠️ Tech Stack
-
-### ☁️ Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-</p>
 
 ### 🗄️ Databases
 
@@ -47,7 +38,31 @@ Experienced in **cloud infrastructure, database administration, Kubernetes, Terr
   <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Infrastructure
+### ☁️ Cloud & Managed Databases
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</p>
+
+### 🔄 Database Engineering
+
+* ⚡ Performance Tuning & Query Optimization
+* 🔄 High Availability & Disaster Recovery
+* 💾 Backup & Recovery
+* 🔁 Replication & Failover
+* 📊 Database Monitoring & Troubleshooting
+* 🚀 Database Migration & Modernization
+* 📈 Capacity Planning
+* 🔐 Database Security & Access Management
+* ☁️ Cloud Database Architecture
+* 🛠️ Production Database Operations
+
+### ☸️ DevOps & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -67,17 +82,17 @@ Experienced in **cloud infrastructure, database administration, Kubernetes, Terr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 💻 Scripting & Systems
+### 💻 Systems & Scripting
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-### 📊 Monitoring
+### 📊 Monitoring & Observability
 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
@@ -90,48 +105,55 @@ Experienced in **cloud infrastructure, database administration, Kubernetes, Terr
 
 ## 🔥 Core Expertise
 
-- ☁️ **Cloud:** AWS, Azure, Cloud Infrastructure, Cloud Migration, Cost Optimization
-- 🏗️ **Infrastructure:** Linux, Windows Server, Infrastructure as Code, Automation
-- ☸️ **Kubernetes:** Kubernetes, Docker, Helm, EKS, AKS, PostgreSQL on Kubernetes
-- ⚙️ **DevOps:** Terraform, Ansible, CI/CD, GitHub Actions, Jenkins, Azure DevOps, GitOps
-- 🗄️ **Databases:** PostgreSQL, SQL Server, Oracle, MySQL, MongoDB
-- 🔄 **Database Operations:** HA, DR, Backup & Recovery, Replication, Performance Tuning
-- 📊 **Monitoring:** Prometheus, Grafana, CloudWatch, Azure Monitor
-- 🐍 **Automation:** Python, Bash, PowerShell
+* 🗄️ **Database Engineering:** PostgreSQL, SQL Server, Oracle, MySQL, MongoDB
+* ⚡ **Performance:** Query Optimization, Performance Tuning, Capacity Planning
+* 🔄 **HA & DR:** Replication, Failover, Backup & Recovery, Disaster Recovery
+* ☁️ **Cloud Databases:** AWS RDS, Amazon Aurora, Azure SQL Database, Azure SQL Managed Instance
+* 🚀 **Database Migration:** On-Premises to AWS/Azure, Database Modernization
+* ☸️ **Kubernetes:** Kubernetes, EKS, AKS, Helm, PostgreSQL on Kubernetes
+* 🏗️ **Infrastructure:** Linux, Windows Server, Terraform, Ansible, Infrastructure as Code
+* 🔄 **DevOps:** CI/CD, GitHub Actions, Jenkins, Azure DevOps, GitOps
+* 📊 **Monitoring:** Prometheus, Grafana, CloudWatch, Azure Monitor
+* 🐍 **Automation:** Python, Bash, PowerShell
 
 ---
 
 ## 📈 Experience Highlights
 
-- 🚀 Migrated **100+ production databases** from on-premises environments to AWS and Azure
-- ☁️ Worked with **AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance**
-- 🗄️ Managed enterprise **PostgreSQL, SQL Server and Oracle** environments
-- ⚡ Improved database performance and reliability for high-volume production workloads
-- 🔄 Designed and supported **High Availability, Replication, Backup and Disaster Recovery** solutions
-- ☸️ Worked with **Kubernetes-based database platforms** and cloud-native workloads
-- 🏗️ Automated infrastructure and database operations using **Terraform, Python, PowerShell and Bash**
-- 🔄 Built and maintained **CI/CD pipelines** for infrastructure and application deployments
-- 📊 Implemented monitoring and observability using **Prometheus, Grafana, CloudWatch and Azure Monitor**
+* 🚀 Migrated **100+ production databases** from on-premises environments to AWS and Azure
+* 🗄️ Managed enterprise **PostgreSQL, SQL Server and Oracle** database environments
+* ☁️ Worked with **AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance**
+* ⚡ Improved database performance, reliability, and operational efficiency for production workloads
+* 🔄 Designed and supported **High Availability, Replication, Backup & Disaster Recovery** solutions
+* ☸️ Worked with **Kubernetes-based database platforms** and cloud-native workloads
+* 🏗️ Automated infrastructure and database operations using **Terraform, Python, PowerShell and Bash**
+* 🔄 Built and maintained **CI/CD pipelines** for infrastructure and application deployments
+* 📊 Implemented monitoring and observability using **Prometheus, Grafana, CloudWatch and Azure Monitor**
+* 💰 Contributed to **cloud infrastructure and database cost optimization**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚀 AWS Infrastructure with Terraform
+### 🗄️ Enterprise Database Cloud Migration
 
-Infrastructure provisioning and management using Terraform across AWS services.
-
-### 🗄️ Cloud Database Migration
-
-Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
+Migration and modernization of enterprise production databases from on-premises environments to **AWS and Azure**, focusing on minimal downtime, high availability, and operational reliability.
 
 ### ☸️ PostgreSQL on Kubernetes
 
-Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
+Deploying and managing **PostgreSQL clusters on Kubernetes** with high availability, replication, automated backups, and monitoring.
 
-### 🔄 CI/CD Automation
+### ☁️ Cloud Database Platform
 
-Automated infrastructure and application deployments using GitHub Actions, Jenkins and Azure DevOps.
+Designing and managing database platforms using **AWS RDS, Amazon Aurora, Azure SQL Database, and Azure SQL Managed Instance**.
+
+### 🚀 Infrastructure Automation
+
+Infrastructure provisioning and database platform automation using **Terraform, Ansible, Python, Bash, and PowerShell**.
+
+### 🔄 CI/CD & GitOps
+
+Automated infrastructure and application deployments using **GitHub Actions, Jenkins, Azure DevOps, and Argo CD**.
 
 ---
 
