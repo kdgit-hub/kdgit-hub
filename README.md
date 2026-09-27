@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Kishore Dodda</h1>
 
 <h3 align="center">
@@ -14,10 +15,6 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vd-devops77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -26,7 +23,7 @@
 
 Database and Cloud Engineer with **10+ years of experience** managing, optimizing, and supporting enterprise database platforms across **on-premises and cloud environments**, including AWS and Azure.
 
-🗄️ **Database Engineering**
+### 🗄️ Database Engineering
 
 * PostgreSQL, SQL Server, Oracle
 * MySQL, MongoDB
@@ -36,7 +33,7 @@ Database and Cloud Engineer with **10+ years of experience** managing, optimizin
 * High Availability, Disaster Recovery & Backup/Recovery
 * Database Monitoring, Security & Troubleshooting
 
-☁️ **Cloud Engineering**
+### ☁️ Cloud Engineering
 
 * AWS & Microsoft Azure
 * Cloud database migrations and modernization
@@ -44,7 +41,7 @@ Database and Cloud Engineer with **10+ years of experience** managing, optimizin
 * Azure SQL Database, Azure SQL MI, Azure VMs
 * Cloud infrastructure and cost optimization
 
-⚙️ **DevOps & Automation**
+### ⚙️ DevOps & Automation
 
 * Kubernetes & Docker
 * Terraform & Infrastructure as Code
@@ -223,10 +220,6 @@ Database and Cloud Engineer with **10+ years of experience** managing, optimizin
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://gitlab.com/">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
@@ -307,105 +300,5 @@ Database and Cloud Engineer with **10+ years of experience** managing, optimizin
 
 * 🚀 Migrated **100+ production databases** from on-premises environments to AWS and Azure
 * ☁️ Worked with **AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance**
-* 🗄️ Managed enterprise **PostgreSQL, SQL Server and Oracle** environments
-* ⚡ Performed database performance tuning and optimization for high-volume production workloads
-* 🔄 Designed and supported HA, replication, backup and disaster recovery solutions
-* ☸️ Worked with **Kubernetes-based database platforms** and cloud-native workloads
-* 🏗️ Automated infrastructure and database operations using **Terraform, Python, PowerShell and Bash**
-* 🔄 Built and maintained CI/CD pipelines for infrastructure and application deployments
-* 📊 Implemented monitoring and observability using **Prometheus, Grafana, CloudWatch and Azure Monitor**
-
----
-
-# 🌱 Currently Learning & Exploring
-
-* Kubernetes Administration
-* Helm
-* ArgoCD
-* Ansible
-* AWS EKS
-* Azure AKS
-* GitOps
-* DevSecOps
-* Cloud-Native Database Platforms
-* PostgreSQL on Kubernetes
-
----
-
-# 📂 Featured Projects
-
-### 🚀 AWS Infrastructure with Terraform
-
-Infrastructure provisioning and management using Terraform across AWS services.
-
-### 🗄️ Cloud Database Migration
-
-Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
-
-### ☸️ PostgreSQL on Kubernetes
-
-Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
-
-### 🐳 Dockerized Python Application
-
-Containerized Python application deployed using Docker and Kubernetes.
-
-### 🔄 GitHub Actions CI/CD Pipeline
-
-Automated application and infrastructure deployment using GitHub Actions.
-
-### 🔧 Jenkins CI/CD Pipeline
-
-Automated build and deployment workflows using Jenkins.
-
-### 🐧 Linux Automation
-
-Python, Bash and PowerShell scripts for infrastructure and database administration.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vd-devops77&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vd-devops77&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vd-devops77&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kishoredv15@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vd-devops77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+* 🗄️ Managed enterprise **Postg*
+```
