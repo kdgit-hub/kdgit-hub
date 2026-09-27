@@ -15,334 +15,133 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-Cloud & Database Engineer with **10+ years of experience** managing, optimizing, and supporting enterprise infrastructure, database, and cloud platforms across **on-premises and AWS/Azure environments**.
+Cloud & Database Engineer with **10+ years of experience** managing enterprise infrastructure, databases, and cloud platforms across **on-premises, AWS, and Azure environments**.
 
-Experienced in **database administration, cloud infrastructure, Kubernetes, Terraform, CI/CD, Linux administration, automation, monitoring, migrations, high availability, disaster recovery, and performance optimization**.
-
-### 🗄️ Database Engineering
-
-- PostgreSQL, SQL Server, Oracle
-- MySQL, MongoDB
-- AWS RDS & Amazon Aurora
-- Azure SQL Database & Azure SQL Managed Instance
-- Database Administration & Performance Tuning
-- High Availability & Disaster Recovery
-- Backup & Recovery
-- Database Monitoring & Troubleshooting
-- Cloud Database Migration & Modernization
-
-### ☁️ Cloud & Infrastructure
-
-- AWS & Microsoft Azure
-- AWS EC2, RDS, Aurora & S3
-- Azure SQL Database, Azure SQL MI & Azure VMs
-- Cloud Infrastructure & Architecture
-- Infrastructure as Code
-- Cloud Migration
-- Cost Optimization
-- Linux & Windows Server Administration
-
-### ⚙️ DevOps & Automation
-
-- Kubernetes & Docker
-- Terraform
-- Helm
-- Ansible
-- GitHub Actions
-- Jenkins
-- Azure DevOps
-- Argo CD
-- Python, Bash & PowerShell
-- CI/CD & GitOps
-- Monitoring & Observability
+Experienced in **cloud infrastructure, database administration, Kubernetes, Terraform, CI/CD, Linux administration, automation, monitoring, migrations, high availability, disaster recovery, and performance optimization**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☁️ Cloud
+### ☁️ Cloud
 
 <p>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/ec2/">
-    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/">
-    <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/s3/">
-    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
 
----
-
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/aurora/">
-    <img src="https://img.shields.io/badge/Amazon%20Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="https://azure.microsoft.com/products/azure-sql/database">
-    <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
----
-
-## 🚀 DevOps & Infrastructure
+### 🚀 DevOps & Infrastructure
 
 <p>
-  <a href="https://kubernetes.io/">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-  <a href="https://www.terraform.io/">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  </a>
-  <a href="https://helm.sh/">
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  </a>
-  <a href="https://www.ansible.com/">
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  </a>
-  <a href="https://argo-cd.readthedocs.io/">
-    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
----
-
-## 🔄 CI/CD & Automation
+### 🔄 CI/CD & Automation
 
 <p>
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  </a>
-  <a href="https://www.jenkins.io/">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  </a>
-  <a href="https://azure.microsoft.com/products/devops">
-    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 💻 Programming & Scripting
+### 💻 Scripting & Systems
 
 <p>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  </a>
-  <a href="https://learn.microsoft.com/powershell/">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
----
-
-## 🐧 Operating Systems
-
-<p>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </a>
-  <a href="https://www.redhat.com/">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  </a>
-  <a href="https://www.microsoft.com/windows-server">
-    <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 Monitoring & Observability
-
-<p>
-  <a href="https://prometheus.io/">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  </a>
-  <a href="https://grafana.com/">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  </a>
-  <a href="https://aws.amazon.com/cloudwatch/">
-    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  <a href="https://azure.microsoft.com/products/monitor">
-    <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🔥 Core Skills
-
-### ☁️ Cloud & Infrastructure
-
-- AWS
-- Microsoft Azure
-- Cloud Architecture
-- EC2, RDS, Aurora & S3
-- Azure SQL & SQL Managed Instance
-- Cloud Migration
-- Infrastructure as Code
-- Infrastructure Automation
-- Cost Optimization
-- Linux & Windows Server Administration
-
-### ⚙️ DevOps
-
-- Kubernetes
-- Docker
-- Terraform
-- Helm
-- Ansible
-- CI/CD Pipelines
-- GitHub Actions
-- Jenkins
-- Azure DevOps
-- GitOps
-- Argo CD
-- DevSecOps
-
-### 🗄️ Database
-
-- PostgreSQL
-- SQL Server
-- Oracle
-- MySQL
-- MongoDB
-- Database Administration
-- Performance Tuning
-- High Availability
-- Disaster Recovery
-- Backup & Recovery
-- Replication
-- Database Migration
-- Cloud Database Modernization
 
 ### 📊 Monitoring
 
-- Prometheus
-- Grafana
-- AWS CloudWatch
-- Azure Monitor
-- Infrastructure Monitoring
-- Database Monitoring
-- Troubleshooting & Incident Resolution
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 
-# 📈 Experience Highlights
+## 🔥 Core Expertise
+
+- ☁️ **Cloud:** AWS, Azure, Cloud Infrastructure, Cloud Migration, Cost Optimization
+- 🏗️ **Infrastructure:** Linux, Windows Server, Infrastructure as Code, Automation
+- ☸️ **Kubernetes:** Kubernetes, Docker, Helm, EKS, AKS, PostgreSQL on Kubernetes
+- ⚙️ **DevOps:** Terraform, Ansible, CI/CD, GitHub Actions, Jenkins, Azure DevOps, GitOps
+- 🗄️ **Databases:** PostgreSQL, SQL Server, Oracle, MySQL, MongoDB
+- 🔄 **Database Operations:** HA, DR, Backup & Recovery, Replication, Performance Tuning
+- 📊 **Monitoring:** Prometheus, Grafana, CloudWatch, Azure Monitor
+- 🐍 **Automation:** Python, Bash, PowerShell
+
+---
+
+## 📈 Experience Highlights
 
 - 🚀 Migrated **100+ production databases** from on-premises environments to AWS and Azure
 - ☁️ Worked with **AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance**
 - 🗄️ Managed enterprise **PostgreSQL, SQL Server and Oracle** environments
-- ⚡ Performed database performance tuning and optimization for high-volume production workloads
+- ⚡ Improved database performance and reliability for high-volume production workloads
 - 🔄 Designed and supported **High Availability, Replication, Backup and Disaster Recovery** solutions
 - ☸️ Worked with **Kubernetes-based database platforms** and cloud-native workloads
 - 🏗️ Automated infrastructure and database operations using **Terraform, Python, PowerShell and Bash**
 - 🔄 Built and maintained **CI/CD pipelines** for infrastructure and application deployments
 - 📊 Implemented monitoring and observability using **Prometheus, Grafana, CloudWatch and Azure Monitor**
-- 🐧 Supported Linux and Windows Server environments
-- 🔐 Applied infrastructure, database and cloud security best practices
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🚀 AWS Infrastructure with Terraform
-
 Infrastructure provisioning and management using Terraform across AWS services.
 
 ### 🗄️ Cloud Database Migration
-
 Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
 
 ### ☸️ PostgreSQL on Kubernetes
-
 Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
 
-### 🐳 Dockerized Python Application
-
-Containerized Python application deployed using Docker and Kubernetes.
-
-### 🔄 CI/CD Pipeline
-
-Automated application and infrastructure deployment using GitHub Actions, Jenkins and Azure DevOps.
-
-### 🐧 Linux Automation
-
-Python, Bash and PowerShell automation for infrastructure and database administration.
+### 🔄 CI/CD Automation
+Automated infrastructure and application deployments using GitHub Actions, Jenkins and Azure DevOps.
 
 ---
 
-# 🌱 Currently Learning & Exploring
-
-- Kubernetes Administration
-- Helm
-- Argo CD
-- Ansible
-- AWS EKS
-- Azure AKS
-- GitOps
-- DevSecOps
-- Cloud-Native Database Platforms
-- PostgreSQL on Kubernetes
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kishoredv15@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kishoredv15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile!
 </p>
