@@ -1,185 +1,317 @@
-<h1 align="center">Hi 👋, I'm Kishore Dodda</h1>
+Hi 👋, I'm Kishore Dodda
 
-<h3 align="center">
-Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform | Linux | CI/CD
-</h3>
+☁️ Cloud & Database Engineer | AWS | Azure | PostgreSQL | SQL Server | Oracle | Kubernetes | Terraform
 
-<p align="center">
+🚀 About Me
 
-<a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Database and Cloud Engineer with 10+ years of experience managing, optimizing, and supporting enterprise database platforms across on-premises and cloud environments, including AWS and Azure.
 
-<a href="mailto:kishoredv15@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-</p>
 
----
+🗄️ Database Engineering
 
-# 🚀 About Me
 
-- ☁️ Cloud & DevOps Engineer
-- 💻 Building scalable cloud infrastructure using AWS & Azure
-- 🐳 Working with Docker & Kubernetes
-- ⚙️ Infrastructure as Code using Terraform
-- 🔄 CI/CD using GitHub Actions & Jenkins
-- 🐧 Linux Administration & Shell Scripting
-- 📊 Monitoring with Prometheus & Grafana
-- 🛡️ Passionate about Automation, Security and Reliability
 
----
+PostgreSQL, SQL Server, Oracle
 
-# 🛠 Tech Stack
+MySQL, MongoDB
 
-## ☁️ Cloud
+AWS RDS & Amazon Aurora
 
-<p>
+Azure SQL Database & Azure SQL Managed Instance
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+Database Administration & Performance Tuning
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+High Availability, Disaster Recovery & Backup/Recovery
 
-</p>
+Database Monitoring, Security & Troubleshooting
 
----
 
-## 🚀 DevOps
 
-<p>
+☁️ Cloud Engineering
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+AWS & Microsoft Azure
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+Cloud database migrations and modernization
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+AWS RDS, Aurora, EC2, S3
 
-</p>
+Azure SQL Database, Azure SQL MI, Azure VMs
 
----
+Cloud infrastructure and cost optimization
 
-## 💻 Programming & Scripting
 
-<p>
 
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+⚙️ DevOps & Automation
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
-</p>
+Kubernetes & Docker
 
----
+Terraform & Infrastructure as Code
 
-## 🖥 Operating Systems
+CI/CD with GitHub Actions, Jenkins & Azure DevOps
 
-<p>
+Python, PowerShell & Bash automation
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+Linux Administration
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+Monitoring with Prometheus, Grafana, CloudWatch & Azure Monitor
 
-<img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 
-</p>
+🔄 Experienced in supporting 24×7 production environments, automating operational tasks, improving database reliability and performance, and delivering scalable cloud-based solutions.
 
----
+🛠 Tech Stack
 
-## 📦 Version Control
+🗄️ Databases
 
-<p>
+PostgreSQL
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+Microsoft SQL Server
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+Oracle
 
-</p>
+MySQL
 
----
+MongoDB
 
-# 🔥 Core Skills
+AWS RDS
 
-- AWS Cloud
-- Azure Cloud
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Jenkins
-- Linux Administration
-- Shell Scripting
-- Python Automation
-- CI/CD Pipelines
-- Infrastructure as Code
-- Monitoring & Logging
-- DevSecOps Fundamentals
+Amazon Aurora
 
----
+Azure SQL Database
 
-# 🌱 Currently Learning
+Azure SQL Managed Instance
 
-- Kubernetes Administration
-- Helm
-- ArgoCD
-- Ansible
-- AWS EKS
-- Azure AKS
-- GitOps
-- DevSecOps
+☁️ Cloud
 
----
+AWS
 
-# 📂 Featured Projects
+Microsoft Azure
 
-🚀 AWS Infrastructure using Terraform
+EC2
 
-🚀 Kubernetes Deployment
+RDS
 
-🚀 Dockerized Python Application
+Aurora
 
-🚀 GitHub Actions CI/CD Pipeline
+S3
 
-🚀 Jenkins Pipeline
+Lambda
 
-🚀 Linux Automation Scripts
+Azure SQL
 
----
+Azure SQL MI
 
-# 📊 GitHub Stats
+Azure Virtual Machines
 
-<p align="center">
+🚀 DevOps & Cloud Infrastructure
 
-<img src="https://github-readme-stats.vercel.app/api?username=vd-devops77&show_icons=true&theme=tokyonight"/>
+Docker
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vd-devops77&theme=tokyonight"/>
+Kubernetes
 
-</p>
+Terraform
 
----
+Helm
 
-# 📈 Most Used Languages
+Ansible
 
-<p align="center">
+GitHub Actions
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vd-devops77&layout=compact&theme=tokyonight"/>
+Jenkins
 
-</p>
+Azure DevOps
 
----
+GitLab CI
 
-# 📫 Connect with Me
+ArgoCD
 
-- LinkedIn: https://www.linkedin.com/in/kishore-dodda-13554848
-- Email: kishoredv15@gmail.com
+💻 Programming & Scripting
 
----
+Python
+
+PowerShell
+
+Bash
+
+Shell Scripting
+
+🐧 Operating Systems
+
+Linux
+
+Windows Server
+
+📦 Version Control
+
+Git
+
+GitHub
+
+GitLab
+
+Azure Repos
+
+📊 Monitoring & Observability
+
+Prometheus
+
+Grafana
+
+AWS CloudWatch
+
+Azure Monitor
+
+New Relic
+
+🔥 Core Skills
+
+🗄️ Database Engineering
+
+Database Administration
+
+Performance Tuning & Optimization
+
+High Availability & Disaster Recovery
+
+Backup & Recovery
+
+Database Security
+
+Replication
+
+Monitoring & Troubleshooting
+
+Database Migrations
+
+Cloud Database Modernization
+
+☁️ Cloud Engineering
+
+AWS Cloud
+
+Microsoft Azure
+
+Cloud Architecture
+
+AWS RDS & Aurora
+
+Azure SQL & SQL MI
+
+Cloud Migration
+
+Infrastructure Automation
+
+Cost Optimization
+
+⚙️ DevOps
+
+Kubernetes
+
+Docker
+
+Terraform
+
+CI/CD Pipelines
+
+Infrastructure as Code
+
+GitOps
+
+Automation
+
+Linux Administration
+
+Monitoring & Logging
+
+DevSecOps Fundamentals
+
+📈 Cloud & Database Experience
+
+🚀 Migrated 100+ production databases from on-premises environments to AWS and Azure
+
+☁️ Worked with AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance
+
+🗄️ Managed enterprise PostgreSQL, SQL Server and Oracle environments
+
+⚡ Performed database performance tuning and optimization for high-volume production workloads
+
+🔄 Designed and supported HA, replication, backup and disaster recovery solutions
+
+☸️ Worked with Kubernetes-based database platforms and cloud-native workloads
+
+🏗️ Automated infrastructure and database operations using Terraform, Python, PowerShell and Bash
+
+🔄 Built and maintained CI/CD pipelines for infrastructure and application deployments
+
+📊 Implemented monitoring and observability using Prometheus, Grafana, CloudWatch and Azure Monitor
+
+🌱 Currently Learning & Exploring
+
+Kubernetes Administration
+
+Helm
+
+ArgoCD
+
+Ansible
+
+AWS EKS
+
+Azure AKS
+
+GitOps
+
+DevSecOps
+
+Cloud-Native Database Platforms
+
+PostgreSQL on Kubernetes
+
+📂 Featured Projects
+
+🚀 AWS Infrastructure with Terraform
+
+Infrastructure provisioning and management using Terraform across AWS services.
+
+🗄️ Cloud Database Migration
+
+Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
+
+☸️ PostgreSQL on Kubernetes
+
+Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
+
+🐳 Dockerized Python Application
+
+Containerized Python application deployed using Docker and Kubernetes.
+
+🔄 GitHub Actions CI/CD Pipeline
+
+Automated application and infrastructure deployment using GitHub Actions.
+
+🔧 Jenkins CI/CD Pipeline
+
+Automated build and deployment workflows using Jenkins.
+
+🐧 Linux Automation
+
+Python, Bash and PowerShell scripts for infrastructure and database administration.
+
+📊 GitHub Stats
+
+📈 Most Used Languages
+
+📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/kishore-dodda-13554848
+
+
+
+📧 Email: kishoredv15@gmail.com
 
 ⭐ Thanks for visiting my profile!
