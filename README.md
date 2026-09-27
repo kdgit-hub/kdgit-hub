@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore Dodda</h1>
 
 <h3 align="center">
-☁️ Cloud & Database Engineer | AWS | Azure | Kubernetes | Terraform | PostgreSQL | SQL Server
+☁️ Cloud & Database Engineer | AWS | Azure | Kubernetes | Terraform | PostgreSQL | SQL Server | Oracle
 </h3>
 
 <p align="center">
@@ -118,15 +118,19 @@ Experienced in **cloud infrastructure, database administration, Kubernetes, Terr
 ## 📂 Featured Projects
 
 ### 🚀 AWS Infrastructure with Terraform
+
 Infrastructure provisioning and management using Terraform across AWS services.
 
 ### 🗄️ Cloud Database Migration
+
 Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
 
 ### ☸️ PostgreSQL on Kubernetes
+
 Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
 
 ### 🔄 CI/CD Automation
+
 Automated infrastructure and application deployments using GitHub Actions, Jenkins and Azure DevOps.
 
 ---
