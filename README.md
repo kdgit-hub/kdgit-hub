@@ -300,5 +300,80 @@ Database and Cloud Engineer with **10+ years of experience** managing, optimizin
 
 * 🚀 Migrated **100+ production databases** from on-premises environments to AWS and Azure
 * ☁️ Worked with **AWS RDS, Amazon Aurora, Azure SQL Database and Azure SQL Managed Instance**
-* 🗄️ Managed enterprise **Postg*
+* 🗄️ Managed enterprise **PostgreSQL, SQL Server and Oracle** environments
+* ⚡ Performed database performance tuning and optimization for high-volume production workloads
+* 🔄 Designed and supported HA, replication, backup and disaster recovery solutions
+* ☸️ Worked with **Kubernetes-based database platforms** and cloud-native workloads
+* 🏗️ Automated infrastructure and database operations using **Terraform, Python, PowerShell and Bash**
+* 🔄 Built and maintained CI/CD pipelines for infrastructure and application deployments
+* 📊 Implemented monitoring and observability using **Prometheus, Grafana, CloudWatch and Azure Monitor**
+
+---
+
+# 🌱 Currently Learning & Exploring
+
+* Kubernetes Administration
+* Helm
+* ArgoCD
+* Ansible
+* AWS EKS
+* Azure AKS
+* GitOps
+* DevSecOps
+* Cloud-Native Database Platforms
+* PostgreSQL on Kubernetes
+
+---
+
+# 📂 Featured Projects
+
+### 🚀 AWS Infrastructure with Terraform
+
+Infrastructure provisioning and management using Terraform across AWS services.
+
+### 🗄️ Cloud Database Migration
+
+Migration and modernization of enterprise databases to AWS and Azure cloud platforms.
+
+### ☸️ PostgreSQL on Kubernetes
+
+Deploying and managing PostgreSQL clusters on Kubernetes with high availability, backups and monitoring.
+
+### 🐳 Dockerized Python Application
+
+Containerized Python application deployed using Docker and Kubernetes.
+
+### 🔄 GitHub Actions CI/CD Pipeline
+
+Automated application and infrastructure deployment using GitHub Actions.
+
+### 🔧 Jenkins CI/CD Pipeline
+
+Automated build and deployment workflows using Jenkins.
+
+### 🐧 Linux Automation
+
+Python, Bash and PowerShell scripts for infrastructure and database administration.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kishore-dodda-13554848/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kishoredv15@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
 ```
